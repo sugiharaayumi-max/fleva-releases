@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Fleva</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Mon, 16 Nov 2026 17:57:20 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li>加上自動更新：以後有新版本，Fleva 會自己跳出來問你要不要更新。</li>
+  <li>選單「Fleva › 檢查更新…」可以馬上查有沒有新版。</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/sugiharaayumi-max/fleva-releases/releases/download/v1.0.1/Fleva-1.0.1.dmg" length="3106060" type="application/octet-stream" sparkle:edSignature="0wfbJ7X8CcY5F8U5aYQnDObcaH8fVNi+cyV2XW8Ji4zKFS5VZNaGzYom8n6gCisjYekrTBXCz6FeSIDcXSVzBA=="/>
+        </item>
+    </channel>
+</rss>
