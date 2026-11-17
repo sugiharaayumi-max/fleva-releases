@@ -3,17 +3,19 @@
     <channel>
         <title>Fleva</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 16 Nov 2026 17:57:20 +0800</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Tue, 17 Nov 2026 22:39:45 +0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>加上自動更新：以後有新版本，Fleva 會自己跳出來問你要不要更新。</li>
-  <li>選單「Fleva › 檢查更新…」可以馬上查有沒有新版。</li>
+  <li>縮圖檔名下面多寫一行像素尺寸（例 200×200）。</li>
+  <li>看大圖時，右上角的按鈕可以換背景：棋盤格、白、黑。</li>
+  <li>按 ⌘C 拷貝圖片：到 Photoshop 貼上保留透明，到 Finder 貼上是檔案。</li>
+  <li>Fleva 開著時從 Finder 雙擊圖片，用原本的視窗打開，不再多開視窗。</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/sugiharaayumi-max/fleva-releases/releases/download/v1.0.1/Fleva-1.0.1.dmg" length="3106060" type="application/octet-stream" sparkle:edSignature="0wfbJ7X8CcY5F8U5aYQnDObcaH8fVNi+cyV2XW8Ji4zKFS5VZNaGzYom8n6gCisjYekrTBXCz6FeSIDcXSVzBA=="/>
+            <enclosure url="https://github.com/sugiharaayumi-max/fleva-releases/releases/download/v1.0.2/Fleva-1.0.2.dmg" length="3156673" type="application/octet-stream" sparkle:edSignature="UabRIz8i52Nxh+yAybRuRHFtePxMjI2LOr/XnQ9EGuruRpBBjfiiwOF5VQwqZXNsfGTXdosfqpaGeV/LQL29CA=="/>
         </item>
     </channel>
 </rss>
