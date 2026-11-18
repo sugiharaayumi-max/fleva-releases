@@ -3,19 +3,17 @@
     <channel>
         <title>Fleva</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Tue, 17 Nov 2026 22:39:45 +0800</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.3</title>
+            <pubDate>Wed, 18 Nov 2026 23:20:35 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>縮圖檔名下面多寫一行像素尺寸（例 200×200）。</li>
-  <li>看大圖時，右上角的按鈕可以換背景：棋盤格、白、黑。</li>
-  <li>按 ⌘C 拷貝圖片：到 Photoshop 貼上保留透明，到 Finder 貼上是檔案。</li>
-  <li>Fleva 開著時從 Finder 雙擊圖片，用原本的視窗打開，不再多開視窗。</li>
+  <li>可以列印了：視窗右上角的印表機按鈕、⌘P、選單「檔案 › 列印…」。選幾張就印幾頁，一頁一張。</li>
+  <li>可以改檔名了：在縮圖上按 Enter，或按右鍵選「重新命名」。</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/sugiharaayumi-max/fleva-releases/releases/download/v1.0.2/Fleva-1.0.2.dmg" length="3156673" type="application/octet-stream" sparkle:edSignature="UabRIz8i52Nxh+yAybRuRHFtePxMjI2LOr/XnQ9EGuruRpBBjfiiwOF5VQwqZXNsfGTXdosfqpaGeV/LQL29CA=="/>
+            <enclosure url="https://github.com/sugiharaayumi-max/fleva-releases/releases/download/v1.0.3/Fleva-1.0.3.dmg" length="3321622" type="application/octet-stream" sparkle:edSignature="YhJdu7rU+pklXm3bQTwDnbJQWzecj+ZLcScXqpd+8IeiL4I1/ySM3MiUFtTR0LMnwDLB3dS8DjH9b6Op3L+yCQ=="/>
         </item>
     </channel>
 </rss>
