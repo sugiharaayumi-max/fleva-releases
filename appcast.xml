@@ -3,17 +3,16 @@
     <channel>
         <title>Fleva</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Wed, 18 Nov 2026 23:20:35 +0800</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Thu, 19 Nov 2026 12:53:55 +0800</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>可以列印了：視窗右上角的印表機按鈕、⌘P、選單「檔案 › 列印…」。選幾張就印幾頁，一頁一張。</li>
-  <li>可以改檔名了：在縮圖上按 Enter，或按右鍵選「重新命名」。</li>
+  <li>右鍵選單加上圖示：重新命名、拷貝路徑、丟到垃圾桶，一眼就認得。</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/sugiharaayumi-max/fleva-releases/releases/download/v1.0.3/Fleva-1.0.3.dmg" length="3321622" type="application/octet-stream" sparkle:edSignature="YhJdu7rU+pklXm3bQTwDnbJQWzecj+ZLcScXqpd+8IeiL4I1/ySM3MiUFtTR0LMnwDLB3dS8DjH9b6Op3L+yCQ=="/>
+            <enclosure url="https://github.com/sugiharaayumi-max/fleva-releases/releases/download/v1.0.4/Fleva-1.0.4.dmg" length="3326084" type="application/octet-stream" sparkle:edSignature="9HuBjr+l/g9DYxRX5YDjUeRh4sQKnqAjc67IrWRoGVB1LvWyDmJYlKAbQSasPh2NaONBAAZZIJ6+1bar6+V4DQ=="/>
         </item>
     </channel>
 </rss>
